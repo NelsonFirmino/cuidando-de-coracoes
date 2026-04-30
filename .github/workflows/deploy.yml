@@ -12,7 +12,7 @@ permissions:
 jobs:
   build-deploy:
     environment:
-      name: github-pages
+      name: github-pages   # 👈 ESSA LINHA É O PROBLEMA
     runs-on: ubuntu-latest
 
     steps:
