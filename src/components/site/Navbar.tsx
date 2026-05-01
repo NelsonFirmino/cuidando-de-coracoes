@@ -22,7 +22,7 @@ export const Navbar = () => {
           </span>
           <div className="leading-tight">
             <p className="font-display text-lg">Talita Firmino</p>
-            <p className="text-xs text-muted-foreground tracking-wide">Psicóloga · CRP 00000</p>
+            <p className="text-xs text-muted-foreground tracking-wide">Psicóloga · CRP 17/3952</p>
           </div>
         </a>
 

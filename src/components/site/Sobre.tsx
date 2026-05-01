@@ -25,7 +25,7 @@ export const Sobre = () => {
 
           <div className="grid sm:grid-cols-3 gap-4 pt-6">
             {[
-              { icon: GraduationCap, title: "Formação", text: "Graduação em Psicologia · CRP 00000" },
+              { icon: GraduationCap, title: "Formação", text: "Graduação em Psicologia · CRP 17/3952" },
               { icon: BookOpen, title: "Especializações", text: "Terapia Cognitivo-Comportamental Infantil e Adolescente" },
               { icon: Heart, title: "Abordagem", text: "Lúdica, integrativa e centrada na família" },
             ].map(({ icon: Icon, title, text }) => (

@@ -5,7 +5,7 @@ export const Footer = () => (
     <div className="container py-16 grid md:grid-cols-3 gap-10">
       <div>
         <p className="font-display text-2xl">Talita Firmino</p>
-        <p className="text-sm text-background/60 mt-1">Psicóloga · CRP 00000</p>
+        <p className="text-sm text-background/60 mt-1">Psicóloga · CRP 17/3952</p>
         <p className="mt-6 text-sm text-background/70 max-w-xs leading-relaxed">
           Cuidado emocional para crianças e adolescentes, com escuta acolhedora e olhar profissional.
         </p>

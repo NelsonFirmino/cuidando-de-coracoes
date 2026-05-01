@@ -5,7 +5,7 @@ import { Textarea } from "@/components/ui/textarea";
 import { MapPin, Clock, Phone, Mail } from "lucide-react";
 import { toast } from "sonner";
 
-const WHATSAPP = "5500000000000";
+const WHATSAPP = "+5584998172919";
 
 export const Contato = () => {
   const [form, setForm] = useState({ name: "", email: "", message: "" });
